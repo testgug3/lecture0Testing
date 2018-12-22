@@ -1,0 +1,21 @@
+Continuous Integration
+-Frequent merges to main branch
+-Automated unit testing
+
+Continuous Delivery
+-Automated application development
+
+CI Tools
+-Circle CI
+-Codeship
+-Jenkins
+-Travis CI
+
+YAML file 
+    key1: value1
+    key2: value2
+    key3: 
+        - item1
+        - item2
+        - item3
+
