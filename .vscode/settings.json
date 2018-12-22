@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Proj\\pythonproj\\CS50\\lecture0Django\\Scripts",
+    "python.linting.pylintArgs": ["--disable=E1101,C0111,C0304,C0103"]
+}
